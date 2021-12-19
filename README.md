@@ -9,3 +9,6 @@
   <br/>
   <br/>This is the page where I made myself bored. 
   You can buy paid hacking tools there and much more!  <br/>
+  
+  # Intro
+  ```Comming soon!```
